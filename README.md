@@ -1,4 +1,4 @@
-<img src="https://github.com/francizesperanza/francizesperanza/blob/main/arriettydraw.jpg" alt="A redraw of an Arrietty scene by me!">
+<img src="https://github.com/francizesperanza/francizesperanza/blob/main/arrietydraw.jpg" alt="A redraw of an Arrietty scene by me!">
 
 
 <!--
