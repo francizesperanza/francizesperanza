@@ -1,4 +1,5 @@
-## Hi there 👋
+<img src="https://github.com/francizesperanza/francizesperanza/blob/main/arriettydraw.png" alt="A redraw of an Arrietty scene by me!">
+
 
 <!--
 **francizesperanza/francizesperanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
